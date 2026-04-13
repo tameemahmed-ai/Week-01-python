@@ -1,0 +1,13 @@
+{
+    "name": "Tameem",
+    "age": 32,
+    "address": {
+        "city": "Gaithersburg",
+        "state": "Maryland"
+    },
+    "hobbies": [
+        "boxing",
+        "coding",
+        "travel"
+    ]
+}
