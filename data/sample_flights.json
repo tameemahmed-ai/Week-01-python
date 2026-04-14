@@ -1,0 +1,13 @@
+{
+    "flight_number": "UA123",
+    "departure": {
+        "airport": "SFO",
+        "scheduled": "2026-03-15T08:00:00",
+        "actual": "2026-03-15T08:15:00"
+    },
+    "arrival": {
+        "airport": "JFK",
+        "scheduled": "2026-03-15T16:30:00",
+        "estimated": "2026-03-15T16:45:00"
+    }
+}

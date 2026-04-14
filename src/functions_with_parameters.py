@@ -9,3 +9,4 @@ spin_speed = input("Enter spin speed (slow/fast/gentle): ")
 
 # pass it into the function
 wash_clothes(temperature, spin_speed)
+10

@@ -20,5 +20,4 @@ try:
 except ValueError:
     print("Please enter a valid number for food, drinks, and dessert prices.")
     
-
     
